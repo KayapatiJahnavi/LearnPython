@@ -1,0 +1,8 @@
+age=int(input("enter  the age"))
+height=float(input("enter the height"))
+name=input("enter the name")
+word=bool(input("enter word"))
+print("She is" ,name)
+print("Height is ", height)
+print("she is ",age ,"years old")
+print("we call her as ",word)
